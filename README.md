@@ -1,10 +1,10 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Vernanda;Software+Engineer;Mobile+%26+Backend+Developer;Building+Scalable+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Vernanda;UI%2FUX+Designer+%7C+Frontend+Developer;Crafting+Intuitive+Interfaces;Building+Clean+Mobile+%26+Web+Apps" alt="Typing SVG" />
   </a>
 
-  <p>Software engineer focused on scalable architectures, cross-platform apps, and clean system design.</p>
+  <p>Passionate about crafting intuitive user experiences and translating designs into responsive, production-ready interfaces.</p>
 
   <p>
     <a href="https://linkedin.com/in/vernandav">
@@ -21,20 +21,22 @@
 <br/>
 
 ```yaml
-developer: Vernanda
-role: Software Engineer
-stack: [Dart, JavaScript, Python, C++, Java, React, Node.js]
-focus: [Mobile Development, Scalable Architecture, Backend Systems]
+profile: Vernanda
+role: UI/UX Designer | Frontend Developer
+design_focus: [Wireframing, Prototyping, Design Systems, UX Research]
+frontend_stack: [Flutter, Dart, React, Tailwind CSS, JavaScript]
+backend_light: [Node.js, RESTful APIs]
+tools: [Figma, Git, GitHub]
 ```
 
 <br/>
 
 <div align="center">
 
-  <h3>Technologies</h3>
+  <h3>Design & Frontend Stack</h3>
 
   <p>
-    <img src="https://skillicons.dev/icons?i=dart,flutter,js,py,java,cpp,react,nodejs,postgres,docker,git&theme=dark" height="42" alt="Technologies" />
+    <img src="https://skillicons.dev/icons?i=figma,flutter,dart,react,tailwind,js,html,css,nodejs,git&theme=dark" height="42" alt="Design and Frontend Stack" />
   </p>
 
   <br/>
