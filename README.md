@@ -16,22 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=vernandav&label=views&color=58a6ff&style=flat-square" height="20" alt="Views" />
   </p>
 
-</div>
-
-<br/>
-
-```yaml
-profile: Vernanda
-role: UI/UX Designer | Frontend Developer
-design_focus: [Wireframing, Prototyping, Design Systems, UX Research]
-frontend_stack: [Flutter, Dart, React, Tailwind CSS, JavaScript]
-backend_light: [Node.js, RESTful APIs]
-tools: [Figma, Git, GitHub]
-```
-
-<br/>
-
-<div align="center">
+  <br/>
 
   <h3>Design & Frontend Stack</h3>
 
@@ -53,3 +38,9 @@ tools: [Figma, Git, GitHub]
   </p>
 
 </div>
+
+<br/>
+
+## Let's Connect and Build Something!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:9B5DE5&height=100&section=footer" width="100%" alt="Footer Wave" />
